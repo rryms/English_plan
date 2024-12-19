@@ -10,6 +10,7 @@
 * [词](./Structed%20learning/how%20to%20writing.md#词)
 ### [语法积累](./Structed%20learning/Grammar,style.md)
 
+
 ## 计划的学习--structing
 
 **学英语，是一个学习感觉的实践(听说读写)，为了高效，学一个东西，至少在：词、句、段、篇上去认识**

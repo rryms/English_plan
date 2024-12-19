@@ -10,3 +10,4 @@
 ### [Readings](./daily_habit/daily_job.md#readings)
 * [BaiyunWriting](./A_brief_history/BaiYundeke.md)
 * [How to write a essay](https://writingcenter.unc.edu/tips-and-tools/essay-exams/)
+* [1000-top-verb](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
