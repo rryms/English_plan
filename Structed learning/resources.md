@@ -1,17 +1,14 @@
-# 对英语的认识
-* 葛旭、白云---学习的方法论
-* [恶魔奶爸英语学习方法论](https://www.bilibili.com/video/BV1M4411u75G)
-
-英语学习是一个没有结果的学习，不是工科的一门技术，却是面向生活的，丰富的诸多认识的视角；就一点而言，英语的学习多是在训练一些习惯，一些从生活中提炼的---帮助自己认识、体验的视角、方法论。
 
 
-## Resources
 
-### [Readings](./daily_habit/daily_job.md#readings)
-* [BaiyunWriting](./A_brief_history/BaiYundeke.md)
-* [How to write a essay](https://writingcenter.unc.edu/tips-and-tools/essay-exams/)
-* [1000-top-verb](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
+# Tools
 
-* **学习英语的资源**
-
-* [恶魔奶爸-学习计划](https://weread.qq.com/web/bookDetail/06d3229071f202be06de7e4)
+## 字典
+### How to use
+* When you look up a word, put a $\checkmark$ next to it. Each time you return to a page with a $\checkmark$ look at it quickly to chech that you remember the word.
+* If you see an English word in a text, first try ro guess the meaning, and carry on reading to see if your guess seems correct. Use your dictionary to check the meaning.
+* If you look up a word in a bilingual dictionary and get several different words in your own language, look up the word in your monolingual dictionary. This should help you to decide which word in your own language is the nearest translation in this context.
+* Remember that many words have more than one meaning, and the first meaning in the dictionary is not always the one you want. Read through the different meanings.
+### [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
+* 读pdf，点击就查
+* 引入词典

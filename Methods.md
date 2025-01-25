@@ -1,16 +1,4 @@
 
-
-## [学习的计划--structed](./Structed%20learning/resources.md)
-### [作文写作](./Structed%20learning/how%20to%20writing.md)
-* [白云的课程](./Plans/A_brief_history/BaiYundeke.md)
-[tips&tools](https://writingcenter.unc.edu/tips-and-tools/)
-* [篇](./Structed%20learning/how%20to%20writing.md#篇)
-* [段](./Structed%20learning/how%20to%20writing.md#段)
-* [句](./Structed%20learning/how%20to%20writing.md#句)
-* [词](./Structed%20learning/how%20to%20writing.md#词)
-### [语法积累](./Structed%20learning/Grammar,style.md)
-
-
 ## 计划的学习--structing
 
 **学英语，是一个学习感觉的实践(听说读写)，为了高效，学一个东西，至少在：词、句、段、篇上去认识**
@@ -70,9 +58,6 @@ learning by learning,做到学习一板一眼，但又不是单纯的把单词�
 
 
 
-## How to learn---天人合一
-**更新提高体系**
-![page12](./pictures/Page12.jpg)
 
 白云的课！！！
 

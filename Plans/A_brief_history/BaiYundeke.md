@@ -382,8 +382,10 @@ In other words, he emphasized inner piety and **deemphasized** the external form
     * Analysis: Concept Definte 3-4
     * Evaluate: The value of argument 5-6
     * Assessing the contrary position & Argue Back 7-8
-  * Making your Argument  9-10 week
+  * Making your Argument and Summary  9-10 week
 
+#### Introduction of Argument and Hobbes's Argument
+* 画个逻辑链条
 
 * [argument](https://writingcenter.unc.edu/tips-and-tools/argument/)
 ### 160422ZX [写作课] 写作方法论

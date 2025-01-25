@@ -1,11 +1,7 @@
 
 
 
-## western history
-* [船长的课](./A_brief_history/GeXudeke.md)
-* [白云的课](./A_brief_history/BaiYundeke.md)
-* [Assignments](./A_brief_history/Assignment.md)
-* [Paragraph](./A_brief_history/Paraphrase.md)
+## [孤阅](./A_brief_history/Summary.md) 
 
 
 
