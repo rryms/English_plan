@@ -2,7 +2,7 @@
 
 ## [学习的计划--structed](./Structed%20learning/resources.md)
 ### [作文写作](./Structed%20learning/how%20to%20writing.md)
-* 白云的课程
+* [白云的课程](./Plans/A_brief_history/BaiYundeke.md)
 [tips&tools](https://writingcenter.unc.edu/tips-and-tools/)
 * [篇](./Structed%20learning/how%20to%20writing.md#篇)
 * [段](./Structed%20learning/how%20to%20writing.md#段)

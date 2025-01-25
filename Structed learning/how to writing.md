@@ -1,4 +1,4 @@
-# A Summary of writing of [baiyun](../A_brief_history/BaiYundeke.md)
+# A Summary of writing of [baiyun](../Plans/A_brief_history/BaiYundeke.md)
 ------
 ## Principle for writing
 * What -- to write ? -----Content
