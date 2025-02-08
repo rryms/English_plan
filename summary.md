@@ -9,10 +9,9 @@
 
 ## [句](./Structed%20learning/how%20to%20writing.md#句)
 
-## [词](./Structed%20learning/how%20to%20writing.md#词)
-* 怎么记单词
-1. 词根词缀   
-   * [网站](https://www.etymonline.com/cn)
+## [词](./Structed%20learning/word.md)
+
+
 
 
 ## [语法积累](./Structed%20learning/Grammar,style.md)
@@ -22,7 +21,7 @@
 
 ## Resources
 
-### [Readings](./daily_habit/daily_job.md#readings)
+### [daily-practice](./practice/practice-controller.md)
 * [BaiyunWriting](./A_brief_history/BaiYundeke.md)
 * [How to write a essay](https://writingcenter.unc.edu/tips-and-tools/essay-exams/)
 * [1000-top-verb](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
