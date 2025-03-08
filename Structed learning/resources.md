@@ -1,6 +1,3 @@
-
-
-
 # Tools
 
 ## 字典
@@ -23,4 +20,4 @@
 
 * [Anki](https://apps.ankiweb.net/)
 
-## [Pod](https://antennapod.org/documentation/getting-started)
+## [english-pod](https://antennapod.org/documentation/getting-started)

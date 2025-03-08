@@ -1,20 +1,24 @@
 
 # 学习的计划--structed
-## [篇](./Structed%20learning/how%20to%20writing.md#篇)
+## [篇](./Structed%20learning/Content.md)
 
 [作文写作](./Structed%20learning/how%20to%20writing.md)
 
 
-## [段](./Structed%20learning/how%20to%20writing.md#段)
+## [段](./Structed%20learning/Paragraph.md)
+* Thesis Statement
+* Body Paragraph
+* Conclusion
 
-## [句](./Structed%20learning/how%20to%20writing.md#句)
+## [句](./Structed%20learning/Sentence.md)
+* Style
+* Grammar
 
 ## [词](./Structed%20learning/word.md)
 
 
 
 
-## [语法积累](./Structed%20learning/Grammar,style.md)
 
 
 
