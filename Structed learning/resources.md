@@ -39,8 +39,11 @@
 
 魔戒
 
+# Learning-Resources
 
-# Record---One stage one record，感觉进化了，就删了
-~~来一遍就可，把考研出现的词汇，衍生重点积累一下~~
-**来两下就可,重菜是阅读写作，咬文嚼字是辅助**
-看韦小绿or看别的，，，，小菜---最重要的是Reading and Writing
+* [How to write a essay](https://writingcenter.unc.edu/tips-and-tools/essay-exams/)
+* [1000-top-verb](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
+
+* **学习英语的资源**
+
+* [恶魔奶爸-学习计划](https://weread.qq.com/web/bookDetail/06d3229071f202be06de7e4)

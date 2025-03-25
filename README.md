@@ -4,11 +4,10 @@ The study of English
 [对学习英语的反思与总结](thinking.md)
 
 ## [As the thinking of learning English](./Methods.md)
-* [学习的计划](summary.md)---对知识结构的认识和计划---体系
+* [学习的计划](./Structed%20learning/summary.md)---对知识结构的认识和计划---体系
+    * plus resources
 * [计划的学习](Methods.md)一个好的联系知识与实践的计划--习惯---实践计划
 
-## [tools](./Structed%20learning/resources.md)
-* 该看的、应该看看的
 
 
 

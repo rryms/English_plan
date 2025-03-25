@@ -30,6 +30,7 @@
    * [网站](https://www.etymonline.com/cn)
 2. 词典
    * [网站](https://www.vocabulary.com/dictionary/)
+3.[欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
 
 
 # 行动中的咬文嚼字
