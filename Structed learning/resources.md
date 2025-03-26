@@ -47,3 +47,6 @@
 * **学习英语的资源**
 
 * [恶魔奶爸-学习计划](https://weread.qq.com/web/bookDetail/06d3229071f202be06de7e4)
+* 对句子-认识论上的语法
+[萌英](https://www.bilibili.com/video/BV1Uk4y117DK)
+[一小时英语语法](https://www.bilibili.com/video/BV1gA4y1D7jU)
