@@ -5,10 +5,8 @@ The study of English
 
 ## [As the thinking of learning English](./Methods.md)
 * [学习的计划](./Structed%20learning/summary.md)---对知识结构的认识和计划---体系
-    * plus resources
+    * [plus resources](./Structed%20learning/resources.md)
 * [计划的学习](Methods.md)一个好的联系知识与实践的计划--习惯---实践计划
-
-
 
 
 ## [Project](./Plans/plans-for-learning.md)
