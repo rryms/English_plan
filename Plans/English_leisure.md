@@ -1,4 +1,4 @@
-# English Video
+# English Leisure for learning english
 ## YouTube
 [Manifold](https://www.youtube.com/@ManifoldPodcast)
 
@@ -7,6 +7,10 @@
 [Breaking-Points](https://www.youtube.com/@breakingpoints)
 
 [Breaking-Through-News](https://www.youtube.com/@BreakThroughNews)
+
+[The-rest-is-history](https://www.youtube.com/@restishistorypod)
+
+[Philosophize-This](https://www.youtube.com/@philosophizethispodcast)
 
 ## Webs
 
