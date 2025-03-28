@@ -12,6 +12,7 @@
 
 [Philosophize-This](https://www.youtube.com/@philosophizethispodcast)
 
+[Lex-Fridman](https://www.youtube.com/@lexfridman)
 ## Webs
 
 ## Podcast
