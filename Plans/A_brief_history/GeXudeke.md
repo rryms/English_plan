@@ -1,33 +1,39 @@
 # 葛旭的课
 回忆一下葛旭的言论关于学习的，忘了很多了
 
-deep think was recorded in the [file](../../../philosophy/habit/note_taking.md)
-## 160225SXC04【阅读课】表象-具象-抽象
-
-* 表象-具体-抽象
-  * 表象：篇段句词
-  * 具象：史实
-  * 抽象：逻辑  
-
-篇-》段-》句-》词
-不要管word
-只给自己一个印象
-最终目的：容易被页数掩盖的文章逻辑
-学习的本质
-
+## 表象-具象-抽象160222SXC03-Intro-and-160225SXC04【阅读课】
 进度条，标杆----tools-----not object
-
 
 * Focus Question
 * Learning Object
 * Checklist
+* Introduction
+* Maps
+* Timelines
+
+* 最基本的--从文章上，信息的提取
+   1. Narration
+   2. Description
+   3. Argumentation---Cause/Effect
 
 
-## 160229SXC05【导读课】罗马共和国与帝国政治架构
-null
 
-## 160303SXC06【阅读课】Focus+Paraphrase
+### 表象-具体-抽象
+* 表象：篇段句词
+* 具象：史实
+* 抽象：逻辑  
 
+1. 把学英语当成积累页码
+2. 不仅成了页码，还能考好试，把问题转移到考试成绩上---学的不行，是学校不行
+3. 葛旭所谓的理性----应该是当下的空缺---横看成林侧成峰
+
+"进度条是一个标杆"
+: 更重要的是脚下的蘑菇
+
+
+## Focus+Paraphrase 160303SXC06【阅读课】
+怎么理解计划与实践的问题
+: 对未知的可能性的逻辑,实践的空位
 * Focus
 把句子链接成段，段链接成章
 * Paraphrase(repeat)

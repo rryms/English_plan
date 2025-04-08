@@ -269,18 +269,18 @@ Bad Sentence
 句读The Element of style
 
 ### 160428SX【写作课】】全面总结与建议
-![Page1](../pictures/Page4.jpg)
-![Page2](../pictures/Page5.jpg)
-![page3](../pictures/Page6.jpg)
+![Page1](../../pictures/Page4.jpg)
+![Page2](../../pictures/Page5.jpg)
+![page3](../../pictures/Page6.jpg)
 
 ## lectures - for western history -season3
 ### 160609XJ【写作课】方法论总结
 * What- write what- 题目- knowledge
 * Why - why write - 讨论意义-critical thinking
 * How - how write- 篇段句词- Language
-![page1](../pictures/Page7.jpg)
-![page2](../pictures/Page8.jpg)
-![page3](../pictures/Page9.jpg)
+![page1](../../pictures/Page7.jpg)
+![page2](../../pictures/Page8.jpg)
+![page3](../../pictures/Page9.jpg)
 
 ### 160616【写作课】词句
 1. Active your verb 
@@ -389,6 +389,6 @@ In other words, he emphasized inner piety and **deemphasized** the external form
 
 * [argument](https://writingcenter.unc.edu/tips-and-tools/argument/)
 ### 160422ZX [写作课] 写作方法论
-![The Logic of Write](../pictures/Page1.jpg)
-![The Path of Write](../pictures/Page2.jpg)
+![The Logic of Write](../../pictures/Page1.jpg)
+![The Path of Write](../../pictures/Page2.jpg)
 
