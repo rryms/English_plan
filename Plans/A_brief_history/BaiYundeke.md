@@ -392,3 +392,18 @@ In other words, he emphasized inner piety and **deemphasized** the external form
 ![The Logic of Write](../../pictures/Page1.jpg)
 ![The Path of Write](../../pictures/Page2.jpg)
 
+
+## Assignment
+### How did the geography of Greece affect Greek history
+The Geography of the mountainous terrain overshadowed the developing of Greek that forms the isolation of policity and the conflication of each other.
+
+The montainous terrain divided Greeks into isolating parts, developing their own instuations. Each states owned very different social systems. Each systems of states was aiding to deal with their own reality troubles. For example, Spartas developed a highly centralized military state to keep command on the extanding territory. Instead, Greece developed a democracy system to solve the corruption of Greece people.
+
+Greeks from different states would not view Greek as a entity.they were only willing to reserve their own states for which the unity of Greeks are hard to be reality. When Greeks facing the thrilling of Persia get together, they quickly got into warfare for the discredit with another and edged the Great Peloponnesian War leading to the end of Greece.
+
+The geography of Greece gave a groundbase to the developing of Greece changing the evolution of Greeks. 
+> TS 开篇就把要写的点，全点到，Paragraph就是结合材料进行论述
+
+> Conclusion 怎么写
+
+> Hook 丰富intro

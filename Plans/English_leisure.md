@@ -13,6 +13,8 @@
 [Philosophize-This](https://www.youtube.com/@philosophizethispodcast)
 
 [Lex-Fridman](https://www.youtube.com/@lexfridman)
+
+[Daily-Show](https://www.youtube.com/@TheDailyShow)
 ## Webs
 
 ## Podcast
