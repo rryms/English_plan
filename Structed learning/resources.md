@@ -1,3 +1,15 @@
+# Learning-Resources
+
+* [How to write a essay](https://writingcenter.unc.edu/tips-and-tools/essay-exams/)
+* [1000-top-verb](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
+
+* **学习英语的资源**
+
+* [恶魔奶爸-学习计划](https://weread.qq.com/web/bookDetail/06d3229071f202be06de7e4)
+* 对句子-认识论上的语法
+[萌英](https://www.bilibili.com/video/BV1Uk4y117DK)
+[一小时英语语法](https://www.bilibili.com/video/BV1gA4y1D7jU)
+
 # Tools
 
 ## 字典
@@ -20,33 +32,9 @@
 
 * [Anki](https://apps.ankiweb.net/)
 
-## [english-pod](https://antennapod.org/documentation/getting-started)
+## 欧陆词典
+`command`
+: 查词
 
-
-## Readings
-### News
-* [八点一刻-外刊阅读](https://www.badianyike.com/)
-* [求是](http://en.qstheory.cn/)
-* [ChinaDaily](https://www.chinadaily.com.cn/)
-* 百度云网盘---外刊阅读
-### Kownledges
-* [World History Encyclopedia](https://www.worldhistory.org/Crusades/)
-
-### Books
-联邦党人文集
-
-神探夏洛克
-
-魔戒
-
-# Learning-Resources
-
-* [How to write a essay](https://writingcenter.unc.edu/tips-and-tools/essay-exams/)
-* [1000-top-verb](https://www.talkenglish.com/vocabulary/top-1000-verbs.aspx)
-
-* **学习英语的资源**
-
-* [恶魔奶爸-学习计划](https://weread.qq.com/web/bookDetail/06d3229071f202be06de7e4)
-* 对句子-认识论上的语法
-[萌英](https://www.bilibili.com/video/BV1Uk4y117DK)
-[一小时英语语法](https://www.bilibili.com/video/BV1gA4y1D7jU)
+`comand + ^A`
+: 加入生词本

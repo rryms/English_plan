@@ -16,5 +16,22 @@
 
 [Daily-Show](https://www.youtube.com/@TheDailyShow)
 ## Webs
+### News
+* [八点一刻-外刊阅读](https://www.badianyike.com/)
+* [求是](http://en.qstheory.cn/)
+* [ChinaDaily](https://www.chinadaily.com.cn/)
+* 百度云网盘---外刊阅读
 
-## Podcast
+### Podcast
+[english-pod](https://antennapod.org/documentation/getting-started)
+
+
+### Kownledges
+* [World History Encyclopedia](https://www.worldhistory.org/Crusades/)
+
+### Books
+联邦党人文集
+
+神探夏洛克
+
+魔戒
