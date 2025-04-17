@@ -13,13 +13,13 @@
 词
 : 意思的漂移，历史的情境中的演变
 
-### [篇](content.md)
+### [篇](context.md)
 * Basic 5 P
 * Cause & Effect
 * Compare & Contrast
 * Descriptive
 * Argue
-### [段](Paragraph.md)
+### [段](paragraphs.md)
 * Thesis statement
 * Body Paragraph
 * Outline
@@ -28,7 +28,7 @@
   * Paraphrase
   * Statement
 
-### [句](Sentence.md)
+### [句](sentences.md)
 * Style/Grammar
 * Passtive voice
 * be specific
