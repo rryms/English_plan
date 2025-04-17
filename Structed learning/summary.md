@@ -19,7 +19,6 @@
 * Compare & Contrast
 * Descriptive
 * Argue
-* Style
 ### [段](Paragraph.md)
 * Thesis statement
 * Body Paragraph

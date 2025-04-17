@@ -1,15 +1,7 @@
 
 # 段
 ## Basic Structure
-### Thesis statement
-[Thesis statement](https://writingcenter.unc.edu/tips-and-tools/thesis-statements/)
-### Body Paragraph
-* [How to write a paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/)
-1. The topic sentence
-2. The interpretion for the topic sentence
-3. Details for the interpreter
-### Outline
-#### Intro
+### Intro
 * [why introduction important](https://writingcenter.unc.edu/tips-and-tools/introductions/)
 
 a introduction is to attractive readers
@@ -27,10 +19,17 @@ Introduction : give reader **Hook**(skillful), **Backgroud**, **RoadMap**(TS)
 
 1. Pay special attention to your first sentence
 2. Be straightforward and confident 
+#### Thesis statement
+[Thesis statement](https://writingcenter.unc.edu/tips-and-tools/thesis-statements/)
+
+### Body Paragraph
+* [How to write a paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/)
+1. The topic sentence
+2. The interpretion for the topic sentence
+3. Details for the interpreter
 
 
-#### Conclusion
-* [conclusion](https://writingcenter.unc.edu/tips-and-tools/conclusions/)
-#### Paraphrase
-#### Statement
+#### [Conclusion](https://writingcenter.unc.edu/tips-and-tools/conclusions/)
+
+
 ### 段落的修正
