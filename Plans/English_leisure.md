@@ -15,6 +15,11 @@
 [Lex-Fridman](https://www.youtube.com/@lexfridman)
 
 [Daily-Show](https://www.youtube.com/@TheDailyShow)
+
+[The-Free-Press](https://www.youtube.com/@thefreepress)
+
+[Political-Excess](https://www.youtube.com/@PoliticalExcess)
+
 ## Webs
 ### News
 * [八点一刻-外刊阅读](https://www.badianyike.com/)

@@ -10,6 +10,8 @@ The study of English
 
 
 ## [Project](./Plans/plans-for-learning.md)
+1. leisure
+2. lonely reader
 
 
 ## How to learn---天人合一
