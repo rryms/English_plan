@@ -1,7 +1,29 @@
-
 # 段
-## Basic Structure
-### Intro
+
+## Every paragraph in a paper should be:
+
+### Unified 
+All of the sentences in a single paragraph should be related to a single controlling idea(often expressed in the topic sentence of the paragraph).
+
+### Clearly related to the thesis 
+The sentences should all refer to the central idea, or thesis, of the paper.
+
+#### [Thesis statement](https://writingcenter.unc.edu/tips-and-tools/thesis-statements/)
+1. tells the reader **how you will interpret the significance of the subject matter** under discussion.
+2. is **a road map for the paper** ; in other words, it tells the reader what to expect from the rest of the paper.
+3. directly **answers the question asked of you**. A thesis is an interpretation of a question or subject, not the subject itself. The subject, or topic, of an essay might be World War II or Moby Dick; a thesis must then offer a way to understand the war or the novel.
+4. makes a claim that others might dispute.
+5. is usually a single sentence near the beginning of your paper (most often, at the end of the first paragraph) that **presents your argument** to the reader. The rest of the paper, the body of the essay, gathers and organizes evidence that will persuade the reader of the logic of your interpretation.
+
+
+### Coherent
+The sentences should be arranged in a logical manner and should follow a definite plan for development.
+
+### Well-developed
+Every idea discussed in the paragraph should be adequately explained and supported through evidence and details that work together to explain the paragraph's controlling idea.
+
+### 具体段落中句子的功能
+#### Intro
 * [why introduction important](https://writingcenter.unc.edu/tips-and-tools/introductions/)
 
 a introduction is to attractive readers
@@ -19,9 +41,6 @@ Introduction : give reader **Hook**(skillful), **Backgroud**, **RoadMap**(TS)
 
 1. Pay special attention to your first sentence
 2. Be straightforward and confident 
-#### Thesis statement
-[Thesis statement](https://writingcenter.unc.edu/tips-and-tools/thesis-statements/)
-
 ### Body Paragraph
 * [How to write a paragraph](https://writingcenter.unc.edu/tips-and-tools/paragraphs/)
 1. The topic sentence
@@ -33,3 +52,11 @@ Introduction : give reader **Hook**(skillful), **Backgroud**, **RoadMap**(TS)
 
 
 ### 段落的修正
+
+
+## Resources
+### Lonely-Reader-百度网盘-160623XJ-写作课-段落的展开
+给了很多范例---重要的是实践
+
+1. Unifed---28:30
+2. Clear Related to the Thesis---1:24:54

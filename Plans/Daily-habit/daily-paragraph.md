@@ -7,3 +7,6 @@
 
 ## 4.14
 1. Begun in the twelfth century and brought to prefection in the thirteenth, the Gothic cathedral remains one of the great artistic triumphs of the High Middle Ages.
+
+## 4.20
+1. Instead the ship left the station and splashed down uncrewed, leaving Wilmore adn Williams to join the station rotation, living and working aboard the ISS until afresh SpactX Crew Dragon spacecraft arrived and they could come home.

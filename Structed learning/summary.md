@@ -20,14 +20,20 @@
 * Descriptive
 * Argue
 ### [段](paragraphs.md)
+1. 段落的展开
+   
+   Unified
+
+   Clear Related to the Thesis
+
+   Coherent
+
+   Well-development
+
+* Intro
 * Thesis statement
 * Body Paragraph
-* Outline
-  * Intro
-  * Conclusion
-  * Paraphrase
-  * Statement
-
+* Conclusion
 ### [句](sentences.md)
 * Style/Grammar
 * Passtive voice
@@ -43,6 +49,8 @@
 * 虚拟语气
 
 ### [词](word.md)
+1. 词的记忆
+2. 词的写作
 
 ## 鸟之试飞也---听说读写 
 处理实践与理论的联系---对事物的看---习惯
