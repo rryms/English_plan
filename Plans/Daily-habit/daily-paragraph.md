@@ -10,3 +10,8 @@
 
 ## 4.20
 1. Instead the ship left the station and splashed down uncrewed, leaving Wilmore adn Williams to join the station rotation, living and working aboard the ISS until afresh SpactX Crew Dragon spacecraft arrived and they could come home.
+
+## 4.26
+1. it is impossible to write an **accurate and detailed** continuous narrative of the century.
+
+## 4.27
