@@ -21,6 +21,14 @@
 
 [Political-Excess](https://www.youtube.com/@PoliticalExcess)
 
+[Camile Vilela](https://www.youtube.com/@CamileVilela)
+## Bilibili
+[Eli田瀚博](https://space.bilibili.com/258959750)
+
+[Larry想做技术大佬](https://space.bilibili.com/19873195)
+
+    理论体系
+
 ## Webs
 ### News
 * [八点一刻-外刊阅读](https://www.badianyike.com/)

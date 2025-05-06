@@ -15,3 +15,18 @@
 1. it is impossible to write an **accurate and detailed** continuous narrative of the century.
 
 ## 4.27
+## Sentences
+1.  China had earlier vowed to "fight to the end" as it imposed countertariffs on American imports.
+2.  Mr Netanyahu had hoped to persuade the American president that it was time instead to bomb Iran's nuclear sites.
+3. The country's defence industry, largely abandoned after the collapse of the Soviet Union, is once again firing on all cylinders.
+
+## Paragraphs
+1. The drones have transformed the battlefield. Churned out in their millions by newly formed Ukrainian companies, they are cheaper and often better than Western versions. Short-range drones can spot anything that moves, swooping in to take out a tank or an exposed Russian soldier. Longer-range drones and missiles can hit command centres, ammunition dumps, barracks and industrial targets. Being home-made, they are not subject to foreigners' restrictions on what can be hit.
+
+
+
+
+
+
+
+The drones can
