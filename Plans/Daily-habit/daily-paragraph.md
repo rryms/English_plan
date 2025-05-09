@@ -24,8 +24,12 @@
 1. The drones have transformed the battlefield. Churned out in their millions by newly formed Ukrainian companies, they are cheaper and often better than Western versions. Short-range drones can spot anything that moves, swooping in to take out a tank or an exposed Russian soldier. Longer-range drones and missiles can hit command centres, ammunition dumps, barracks and industrial targets. Being home-made, they are not subject to foreigners' restrictions on what can be hit.
 
 
-
-
+# 5.8
+## Sentences
+1. Latin communities certainly waged war against one other, and the largest and most powerful of them competed among themselves for primacy, often at the expense of the weaker communities.
+2. But while many of the major developments are reasonably clear, it is difficult for us to place events in specific political and social contexts, and it is impossible to write an accurate and detailed continuous narrative of the century.
+3. Romans of a later date believed that the end of the monarchy marked the beginnings of the major political institutions of the Republic, but the transition was definitely not this **sharp and clear**.
+4. Later, **limited terms and shared tenure** in office would be seen as a chief prop of liberty, and this may well have been true from an early date. 
 
 
 

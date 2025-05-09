@@ -38,6 +38,8 @@
 2. 词典
 
    [网站](https://www.vocabulary.com/dictionary/)
+
+   [saladict](https://saladict.crimx.com/notice)
 3. [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
    * Usage: ``command + ^A``: 加入生词本
 
