@@ -34,3 +34,7 @@
 
 
 The drones can
+
+# 5.15
+1. The Gallic sack of Rome did not have as long-lasting effects as the Roman capture of Veii, but it did leave its mark, and reports of Gallic invasions could lead to panic in Rome for centuries thereafter
+2. Can China sap a divided and isolated Taiwan of its will to resist? 

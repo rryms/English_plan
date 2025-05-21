@@ -30,8 +30,8 @@
   * 对具体的单词直接用欧陆单词，单词集合夹---考研必记。
 
 就是简单对单词有一个好的记忆点，不断的重复。学英语对单词，即不能在意，又不能不在意
+### Resources
 
-* 怎么记单词
 1. 词根词缀   
 
     [网站](https://www.etymonline.com/cn)
@@ -42,6 +42,11 @@
    [saladict](https://saladict.crimx.com/notice)
 3. [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
    * Usage: ``command + ^A``: 加入生词本
+
+### Practice
+欧陆词典
+   1. 就是用它的记忆曲线开背
+   2. 可以用它的单词本---对学的单词做笔记，做整体性的记忆，背词根
 
 # 咬文嚼字---词汇的魅力---Style
 

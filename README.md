@@ -1,7 +1,7 @@
 # English_plan
 The study of English
 
-[对学习英语的反思与总结](thinking.md)
+[对学习英语的反思与总结--习惯](thinking.md)
 
 ## [As the thinking of learning English](./Methods.md)
 * [学习的计划](./Structed%20learning/summary.md)---对知识结构的认识和计划---体系
@@ -20,3 +20,6 @@ The study of English
 
 * 葛旭、白云---学习的方法论
 * [恶魔奶爸英语学习方法论](https://www.bilibili.com/video/BV1M4411u75G)
+
+## Resource--需要整理
+[葛旭---网站推荐](https://www.bilibili.com/video/BV17Q4y1C72Q)
