@@ -26,6 +26,7 @@
 * [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
   * 读pdf，点击就查
   * 引入词典
+  * 翻译写作---文档翻译---选pdf进行阅读
 
 * [沙拉查词](https://saladict.crimx.com/)
     * 聚合类的词典

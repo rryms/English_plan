@@ -18,10 +18,17 @@ a week a circle
    1. The consul and the praetors
    2. The struggle between the patrians and the plebians
   * Policy 
-   1.  
+   1. devised the Roman confederation 
+   2. not hesitate to act when they felt that their security was threatened
+   3. making correct diplomatic decision
+   4. a practical sense of strategy
+
 
 *  The Romans: From Village to Empire
-   * Chap2-The Early Republic--The fourth century
+  * Chap2-The Early Republic--The fourth century
+      the shifting from the emperor to the Republic was not clear
+
+      in a period of turbulence, the decline of monarchy
 
 The Republic---how to solve inner divisions
 

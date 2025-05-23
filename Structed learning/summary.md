@@ -19,6 +19,7 @@
 * Compare & Contrast
 * Descriptive
 * Argue
+
 ### [段](paragraphs.md)
 1. 段落的展开
    
@@ -61,5 +62,7 @@
 
 
 ## [learning Resources](resources.md)
+* english learning resources
+* english learning tools
 
 
