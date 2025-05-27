@@ -17,6 +17,8 @@
 ![Steps when Writing-2](../pictures/Page8.jpg)
 ![Steps when Writing-3](../pictures/Page9.jpg)
 
+## Habit to write
+
 ## Resources
 
 [〔史东〕一天写完毕业论文全过程｜本科艺术史论文写作教程](https://www.bilibili.com/video/BV1KZ4y1c73m)

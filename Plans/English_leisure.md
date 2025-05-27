@@ -38,7 +38,13 @@
 * [求是](http://en.qstheory.cn/)
 * [ChinaDaily](https://www.chinadaily.com.cn/)
 * 百度云网盘---外刊阅读
-
+  * 《经济学人》（The Economist）
+  * 《纽约时报》（The New York Times）
+  * 《卫报》（The Guardian）
+  * 《时代周刊》（Time）
+  * 《科学美国人》（Scientific American）
+  * 《华盛顿邮报》（The Washington Post）
+  * 《新闻周刊》（Newsweek）
 ### Podcast
 [english-pod](https://antennapod.org/documentation/getting-started)
 
