@@ -13,6 +13,13 @@ The study of English
 1. leisure
 2. lonely reader
 
+## Resource--需要整理
+[葛旭---网站推荐](https://www.bilibili.com/video/BV17Q4y1C72Q)
+
+[六级听力1](https://www.bilibili.com/video/BV1Mw4m117uV/)
+
+[2](https://www.bilibili.com/video/BV1cr4y1c7nZ?)
+
 
 ## How to learn---天人合一
 **更新提高体系**
@@ -20,6 +27,3 @@ The study of English
 
 * 葛旭、白云---学习的方法论
 * [恶魔奶爸英语学习方法论](https://www.bilibili.com/video/BV1M4411u75G)
-
-## Resource--需要整理
-[葛旭---网站推荐](https://www.bilibili.com/video/BV17Q4y1C72Q)
