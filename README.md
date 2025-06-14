@@ -21,6 +21,17 @@ The study of English
 [2](https://www.bilibili.com/video/BV1cr4y1c7nZ?)
 
 
+[作文1](https://www.bilibili.com/video/BV1LU4y1T7JR/)
+
+[2](https://www.bilibili.com/video/BV1sfJwzJEZH/)
+
+[3](https://www.bilibili.com/video/BV1DWM7zuE7K/)
+
+[4](https://www.bilibili.com/video/BV1Pt7UzgEBv/)
+
+[翻译1](https://www.bilibili.com/video/BV1Gw4m1X7db/?share_source=copy_web&vd_source=c0f224789c5516d8576f3dd9deb8b8df)
+
+[2](https://www.bilibili.com/video/BV11T4y197gV/)
 ## How to learn---天人合一
 **更新提高体系**
 ![page12](./pictures/Page12.jpg)
