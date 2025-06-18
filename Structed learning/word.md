@@ -43,6 +43,8 @@
 3. [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
    * Usage: ``command + ^A``: 加入生词本
 
+4. 直接问AI，对词组的、近义词的咬文嚼字
+
 ### Practice
 欧陆词典
    1. 就是用它的记忆曲线开背
