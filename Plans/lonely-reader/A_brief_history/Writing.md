@@ -372,38 +372,3 @@ In other words, he emphasized inner piety and **deemphasized** the external form
 [讲讲-乔治-奥威尔的讲法](https://en.wikipedia.org/wiki/Politics_and_the_English_Language)
 
 * On Writing Well
-
-## lectures - for polite
-
-### 160226ZX [写作课] First class
-* Intro
-  * Issue 
-    * Describe: Identify the argument 1-2 
-    * Analysis: Concept Definte 3-4
-    * Evaluate: The value of argument 5-6
-    * Assessing the contrary position & Argue Back 7-8
-  * Making your Argument and Summary  9-10 week
-
-#### Introduction of Argument and Hobbes's Argument
-* 画个逻辑链条
-
-* [argument](https://writingcenter.unc.edu/tips-and-tools/argument/)
-### 160422ZX [写作课] 写作方法论
-![The Logic of Write](../../pictures/Page1.jpg)
-![The Path of Write](../../pictures/Page2.jpg)
-
-
-## Assignment
-### How did the geography of Greece affect Greek history
-The Geography of the mountainous terrain overshadowed the developing of Greek that forms the isolation of policity and the conflication of each other.
-
-The montainous terrain divided Greeks into isolating parts, developing their own instuations. Each states owned very different social systems. Each systems of states was aiding to deal with their own reality troubles. For example, Spartas developed a highly centralized military state to keep command on the extanding territory. Instead, Greece developed a democracy system to solve the corruption of Greece people.
-
-Greeks from different states would not view Greek as a entity.they were only willing to reserve their own states for which the unity of Greeks are hard to be reality. When Greeks facing the thrilling of Persia get together, they quickly got into warfare for the discredit with another and edged the Great Peloponnesian War leading to the end of Greece.
-
-The geography of Greece gave a groundbase to the developing of Greece changing the evolution of Greeks. 
-> TS 开篇就把要写的点，全点到，Paragraph就是结合材料进行论述
-
-> Conclusion 怎么写
-
-> Hook 丰富intro

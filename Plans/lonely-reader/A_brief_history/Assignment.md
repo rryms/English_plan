@@ -8,6 +8,26 @@ After the two great conflict of the 15th century B.C, Greeks experienced a proce
 As the growth of Greek civilation, Greek pursued colonization and confilcted with the Persian Empire. Greek kept a heroic spirte which encourages adventure and colonizated outside.When Greek intended to colonizated the Persian, Persia refused the colonization and seek oppotunity to revege.
 Greeks formed a united league, after the Persia attracked Greece. After Greeks fighted together to against the invasion of the Persian, Greeks formed a leage called Delian League, domiated by the Athen. Beside the Athen completed its stituation that Democracy in the state and Imperialism in the Greek, the Athen reach its height keeping a command of Greek and gradually increased the fear of The Sparta.
 
+
+**How did the geography of Greece affect Greek history**
+
+The Geography of the mountainous terrain overshadowed the developing of Greek that forms the isolation of policity and the conflication of each other.
+
+The montainous terrain divided Greeks into isolating parts, developing their own instuations. Each states owned very different social systems. Each systems of states was aiding to deal with their own reality troubles. For example, Spartas developed a highly centralized military state to keep command on the extanding territory. Instead, Greece developed a democracy system to solve the corruption of Greece people.
+
+Greeks from different states would not view Greek as a entity.they were only willing to reserve their own states for which the unity of Greeks are hard to be reality. When Greeks facing the thrilling of Persia get together, they quickly got into warfare for the discredit with another and edged the Great Peloponnesian War leading to the end of Greece.
+
+The geography of Greece gave a groundbase to the developing of Greece changing the evolution of Greeks. 
+> TS 开篇就把要写的点，全点到，Paragraph就是结合材料进行论述
+
+> Conclusion 怎么写
+
+> Hook 丰富intro
+
+
+
+
+
 ### topic: In what ways were the Byzantine and Islamic civilizations different from the civilization developing in Western Europe? In what ways were they similar
 * Thesis Statement
 Divided into a huge different ends when Roman, the unioned kingdom separated into two empires, the Western Empire and the Byzentine Empire which gradually grown different from political, econmical, social area.
@@ -33,3 +53,6 @@ The art is the search and creature of human culture. Sociality can effect the ex
 ### chap19- What were the long-range and immediate causes of the French Revolution?
 The train of history goes on leaving those who stand on. The French Revolution, a event pushing the history on, was caused by the oppostion of nobles , as a long-range causes and unsolvable social problems, as a immediate causes. 
 The society in the 17th French was solidified into three classes. The first and second class consist of the clergy and the nobles, owned the majority of the social estate and the political power and was free from tax. The third class consisted of the marchant, the labor and the middle class or the bourgeoisie who were the object the benift seized from. The opposition of classes was grown as days goes on.
+
+
+# Paraphrase---应是对文章的生命力的重构，而非简单的复述

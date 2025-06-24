@@ -14,6 +14,8 @@
 : 意思的漂移，历史的情境中的演变
 
 ### [篇](context.md)
+不同文章的类型
+
 * Basic 5 P
 * Cause & Effect
 * Compare & Contrast
@@ -21,6 +23,8 @@
 * Argue
 
 ### [段](paragraphs.md)
+文章的结构，怎么写，表达意义
+
 1. 段落的展开
    
    Unified
@@ -36,6 +40,8 @@
 * Body Paragraph
 * Conclusion
 ### [句](sentences.md)
+句子的结构问题:语言风格；语法
+
 * Style/Grammar
 * Passtive voice
 * be specific
@@ -52,6 +58,7 @@
 ### [词](word.md)
 1. 词的记忆
 2. 词的写作
+
 
 ## 鸟之试飞也---听说读写 
 处理实践与理论的联系---对事物的看---习惯

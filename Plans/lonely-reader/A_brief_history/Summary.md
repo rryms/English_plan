@@ -5,6 +5,6 @@
 
 ## Assignment
 ### 段落
-* [Paraphrase of the Class](Paraphrase.md)
+* [Paraphrase of the Class](Assignment.md)
 ### 文章
 * [Assignment of the lecture](Assignment.md)

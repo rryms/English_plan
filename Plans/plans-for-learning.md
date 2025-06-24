@@ -1,7 +1,7 @@
 # Plans
 
 
-## [孤阅](./A_brief_history/Summary.md) 
+## [孤阅](./lonely-reader/) 
 
 ## Daily-habit
 * [Daily-paragraph](./Daily-habit/daily-paragraph.md)
