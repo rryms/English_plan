@@ -40,3 +40,6 @@ The drones can
 2. Can China sap a divided and isolated Taiwan of its will to resist? 
 3. . In Rome itself, this coincides with an important shift in rule with the end of the monarchy and the beginning of the Roman Republic.
 4. y. The central episode in his fall was an assault by his son, Sextus Tarquinius, on Lucretia, the wife of Lucius Tarquinius Collatinus, and her subsequent suicide.
+
+# 7.3 
+1. There is **no point in** putting forward a theory of the just society without having some knowledge of human behavior and motivation. 

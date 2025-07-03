@@ -67,31 +67,23 @@
 
 
 # 咬文嚼字
-## Government vs. Bureaucracy
-Government​​ and ​​bureaucracy​​ are related but distinct concepts in how a state or organization functions:
+* Government vs. Bureaucracy
 
-**​​Government​​**:
 
-* Refers to the ​​leadership and decision-making body​​ that sets policies, laws, and direction for a society.
-* Composed of ​​elected or appointed officials​​ (e.g., presidents, prime ministers, legislators, judges) who represent the political authority.
-Responsible for ​​creating laws​​, defining public goals, and representing citizens' interests.
-* Operates through branches (executive, legislative, judicial) that balance power and ensure governance.
+* Implement vs. Create
 
-**​​Bureaucracy​​**:
-
-* Refers to the ​​administrative system​​ that ​​implements​​ the policies and laws created by the government.
-* Consists of ​​non-elected officials​​ (civil servants, agencies, departments) who manage day-to-day operations, enforce regulations, and deliver public services (e.g., tax collection, healthcare, education).
-* Focuses on ​​execution, organization, and procedural efficiency​​ (though often criticized for rigidity or "red tape").
-* Exists within governments but can also operate in large private organizations.
-
-​​Key Difference​​:
-
-The ​​government​​ is the ​​political leadership​​ that decides what to do.
-The ​​bureaucracy​​ is the ​​administrative machinery​​ that determines how to do it.
-
-## Implement vs. Create
 Implement 
 : to make sth that has been officially decided start to happen or be used
 
 creat
 : to make sth happen or exist
+
+
+* Country vs. State
+
+|Aspect	|State	|Country|
+|:---|:---:|---:|
+|Legal Status	|Requires sovereignty and statehood.	|Can refer to sovereign or non-sovereign entities.|
+|Political Focus|	Emphasizes political structure and authority.	|Emphasizes cultural, historical, or geographical identity.|
+|Subnational Use|	Can denote subnational entities in federal systems (e.g., U.S. states).	|Rarely used for subnational entities; more commonly refers to sovereign entities.|
+|International Recognition|	Essential for being a state (e.g., recognized by other states).|Recognition varies; some countries (e.g., Taiwan) lack universal recognition.|
