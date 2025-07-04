@@ -34,7 +34,7 @@
 
     [中国人的英语学习策略](https://space.bilibili.com/19873195/lists/1828851?type=season)
    
-
+[yale-政治哲学](https://www.bilibili.com/video/BV1oK411P7QA?p=)
 
 ## Webs
 ### News
