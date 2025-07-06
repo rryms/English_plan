@@ -87,3 +87,9 @@ creat
 |Political Focus|	Emphasizes political structure and authority.	|Emphasizes cultural, historical, or geographical identity.|
 |Subnational Use|	Can denote subnational entities in federal systems (e.g., U.S. states).	|Rarely used for subnational entities; more commonly refers to sovereign entities.|
 |International Recognition|	Essential for being a state (e.g., recognized by other states).|Recognition varies; some countries (e.g., Taiwan) lack universal recognition.|
+
+* decree vs. law
+
+* grief vs. grieve
+* relief vs. relieve
+* belief vs. believe
