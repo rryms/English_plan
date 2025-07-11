@@ -43,3 +43,16 @@ The drones can
 
 # 7.3 
 1. There is **no point in** putting forward a theory of the just society without having some knowledge of human behavior and motivation. 
+
+## Rewrite
+1. There is no point in having this hypothetical conclusion with so many alternative evidence
+
+# 7.6 
+1. Consumers and investors around the world **stand to benefit**
+
+## Rewrite
+1. Universities and teachers in sdust stand to benefit.
+
+# 7.7
+1. The more they expanded, the more threats to their security appeared on the horizon, involving them in yet more conflicts.
+
