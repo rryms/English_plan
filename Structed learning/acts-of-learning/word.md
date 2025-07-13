@@ -66,7 +66,7 @@
 * lonelyreader-百度云网盘-白云-160616XJ-写作课-句词+期末总结
 
 
-# 咬文嚼字
+# 咬文嚼字---bite the word
 * Government vs. Bureaucracy
 
 
@@ -97,3 +97,7 @@ creat
 * arrogant vs. brutal ---stfw---一个是心理；一个是行为
 * pursuit vs. habit
 * outlook vs. aspect
+* dismantle vs. destroy
+* house vs. dwelling
+* estate vs. home
+* sad vs. poignant
