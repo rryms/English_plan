@@ -81,23 +81,22 @@ creat
 
 * Country vs. State
 
-|Aspect	|State	|Country|
-|:---|:---:|---:|
-|Legal Status	|Requires sovereignty and statehood.	|Can refer to sovereign or non-sovereign entities.|
-|Political Focus|	Emphasizes political structure and authority.	|Emphasizes cultural, historical, or geographical identity.|
-|Subnational Use|	Can denote subnational entities in federal systems (e.g., U.S. states).	|Rarely used for subnational entities; more commonly refers to sovereign entities.|
-|International Recognition|	Essential for being a state (e.g., recognized by other states).|Recognition varies; some countries (e.g., Taiwan) lack universal recognition.|
-
 * decree vs. law
 
 * grief vs. grieve
 * relief vs. relieve
-* belief vs. believo
-
+* belief vs. believe
 * arrogant vs. brutal ---stfw---一个是心理；一个是行为
 * pursuit vs. habit
 * outlook vs. aspect
-* dismantle vs. destroy
+* dismantle vs. destroy vs. remove
 * house vs. dwelling
 * estate vs. home
 * sad vs. poignant
+* research vs. fieldwork
+* trip vs. foray vs. voyage
+* intact vs. unchanged
+* weep vs. cry
+* attic vs. loft
+* travel vs. passing through
+* spare vs. leisure
