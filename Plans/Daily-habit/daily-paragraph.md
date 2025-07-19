@@ -64,4 +64,4 @@ The drones can
 2. The need to define who you are by the place in which you live remains intact, even when that place is defined by a single object, like the small blue vase that used to mean home to one of my friends, the daughter of a widowed trained nurse who continually moved from one place to another.
 3. But then they bend a slender young tree into an arch to make a doorway, an entrance to a dwelling as protected from invasion as the walled estates of the wealthy are or as Maskati in Manila is, where watchmen guard the rich against the poor.
 4. When it is dismantled on the last morning ---a morning that is **marked** by the greed of those who have little and hope for a share of whatever is left behind, as well as by the grief of feeling that someone is leaving forever --- on that morning i weep.
-5. 
+5. It puts you more **in charge of** the reading process.

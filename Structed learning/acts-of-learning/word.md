@@ -100,3 +100,6 @@ creat
 * attic vs. loft
 * travel vs. passing through
 * spare vs. leisure
+* ferocity vs. intensity
+* feeble vs. weak
+* dumb vs. foolish vs. stupid
