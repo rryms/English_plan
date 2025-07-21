@@ -22,10 +22,22 @@
 ### Sentense的修正
 
 ### Grammar
-![picture1](../pictures/Page10.jpg)
-![picture2](../pictures/Page11.jpg)
+![picture1](../../pictures/Page10.jpg)
+![picture2](../../pictures/Page11.jpg)
+
 
 * Active voice/Passive voice->Emphasized on what
+
+#### [倒装句](https://www.bilibili.com/video/BV1X54y1h7qR)
+* 完全倒装
+  * 副词、介词短语在句首的倒装
+  * 主语补语(表语)的倒装
+* 部分倒装
+  * 句首有否定意义词时的倒装
+  * 句首有‘only’时的倒装
+  * 'if...should...'构成的虚拟语气的倒装
+  * 固定句型中的倒装
+* 形式倒装
    
 #### 从句
 * view the subsentence as describe word to the main sentence
