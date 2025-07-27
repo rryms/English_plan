@@ -69,7 +69,6 @@
 # 咬文嚼字---bite the word
 * Government vs. Bureaucracy
 
-
 * Implement vs. Create
 
 Implement 
@@ -103,3 +102,6 @@ creat
 * ferocity vs. intensity
 * feeble vs. weak
 * dumb vs. foolish vs. stupid
+* monitor vs. oversee vs. keep watch on
+* happen vs. effect vs. visit upon
+* case vs. affair

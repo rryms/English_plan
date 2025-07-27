@@ -22,6 +22,8 @@
 ### Sentense的修正
 
 ### Grammar
+* 旋天佑 加网络资源补充
+
 ![picture1](../../pictures/Page10.jpg)
 ![picture2](../../pictures/Page11.jpg)
 
@@ -29,10 +31,14 @@
 * Active voice/Passive voice->Emphasized on what
 
 #### [倒装句](https://www.bilibili.com/video/BV1X54y1h7qR)
-* 完全倒装
+看旋天佑---一下不是一定的---看强调的部分
+* 完全倒装---动词完全提前
   * 副词、介词短语在句首的倒装
+
+     副词短语放句首构成倒装时，要注意此时的谓语动词只能是不及物动词，如：go、come、live等，同时，如果主语是代词时，是不用倒装的，  
   * 主语补语(表语)的倒装
-* 部分倒装
+  * 关系从句的倒装
+* 部分倒装---仅助动词提前
   * 句首有否定意义词时的倒装
   * 句首有‘only’时的倒装
   * 'if...should...'构成的虚拟语气的倒装

@@ -57,7 +57,7 @@ The drones can
 1. The more they expanded, the more threats to their security appeared on the horizon, involving them in yet more conflicts.
 
 # 7.16
-1. Had he discovered a gold mino, great delight could not have shone upon his features.
+1. Had he discovered a gold mine, great delight could not have shone upon his features.
  
 倒装加虚拟
 
@@ -65,3 +65,8 @@ The drones can
 3. But then they bend a slender young tree into an arch to make a doorway, an entrance to a dwelling as protected from invasion as the walled estates of the wealthy are or as Maskati in Manila is, where watchmen guard the rich against the poor.
 4. When it is dismantled on the last morning ---a morning that is **marked** by the greed of those who have little and hope for a share of whatever is left behind, as well as by the grief of feeling that someone is leaving forever --- on that morning i weep.
 5. It puts you more **in charge of** the reading process.
+6. It is a catch basin into which pour all of the people disenfranchised or marginalized or scared off by the processes beyond their control, those which lie close to the heart of American life.
+
+## rewrite
+1. Had i entered the unveristy successfully, great peaceness could not generate in my heart.
+2. 
