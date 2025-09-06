@@ -5,8 +5,6 @@
 ## Daily-habit
 * [Daily-paragraph](./Daily-habit/daily-paragraph.md)
 
-## [Resource-leisure](./Daily-habit/English_leisure.md)
-
 
 # 计划的学习--structing
 ![picture](../pictures/Page13.jpg)
@@ -85,4 +83,13 @@
 
 * 写作文
 
+# Resources
+[Eli田瀚博](https://space.bilibili.com/258959750)
+
+* [Larry想做技术大佬](https://space.bilibili.com/19873195)
+    [大学生英语学习完全攻略](https://space.bilibili.com/19873195/lists/2964164?type=season)
+
+    [半个月，搭建你的英语语法体系](https://space.bilibili.com/19873195/lists/1700983?type=season)
+
+    [中国人的英语学习策略](https://space.bilibili.com/19873195/lists/1828851?type=season)
 

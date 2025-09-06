@@ -1,18 +1,18 @@
 # English_plan
 The study of English
 
-[对学习英语的反思与总结--习惯](thinking.md)
-
-## [As the thinking of learning English](./Methods.md)
-* [学习的计划](./Structed%20learning/summary.md)---对知识结构的认识和计划---体系
+## As the thinking of learning English
+### [学习的计划](./Structed%20learning/summary.md)---对知识结构的认识和计划---体系
     * [plus resources](./Structed%20learning/resources.md)
-* [计划的学习](Methods.md)一个好的联系知识与实践的计划--习惯---实践计划
-
-
-## [Project](./Plans/plans-for-learning.md)
+### [计划的学习](./Plans/plans-for-learning.md) --- 一个好的联系知识与实践的计划--习惯---实践计划
+    有目标地学习,超出原有体系
 1. leisure
 2. lonely reader
 
+## Learning as Living
+* [habit](./learning_as_living/habit.md)
+
+* [Input](./learning_as_living/input_a_lot.md)
 ## Resource--需要整理
 [葛旭---网站推荐](https://www.bilibili.com/video/BV17Q4y1C72Q)
 
@@ -32,6 +32,7 @@ The study of English
 [翻译1](https://www.bilibili.com/video/BV1Gw4m1X7db/?share_source=copy_web&vd_source=c0f224789c5516d8576f3dd9deb8b8df)
 
 [2](https://www.bilibili.com/video/BV11T4y197gV/)
+
 ## How to learn---天人合一
 **更新提高体系**
 ![page12](./pictures/Page12.jpg)

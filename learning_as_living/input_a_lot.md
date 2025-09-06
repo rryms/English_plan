@@ -1,5 +1,12 @@
-# English Leisure for learning english
-## Video 
+# 读书扩大阅读量
+## 书籍推荐UP
+[史東183](https://space.bilibili.com/300501537)
+
+[Emmie](https://www.youtube.com/@emmiereads)
+
+# 视频
+
+
 [Roman History](https://www.youtube.com/watch?v=DyoVVSggPjY)
 
 ## YouTube---休息的时候看，平时就是看杂志
@@ -24,17 +31,10 @@
 [Political-Excess](https://www.youtube.com/@PoliticalExcess)
 
 [Camile Vilela](https://www.youtube.com/@CamileVilela)
-## Bilibili
-[Eli田瀚博](https://space.bilibili.com/258959750)
-
-* [Larry想做技术大佬](https://space.bilibili.com/19873195)
-    [大学生英语学习完全攻略](https://space.bilibili.com/19873195/lists/2964164?type=season)
-
-    [半个月，搭建你的英语语法体系](https://space.bilibili.com/19873195/lists/1700983?type=season)
-
-    [中国人的英语学习策略](https://space.bilibili.com/19873195/lists/1828851?type=season)
    
 [yale-政治哲学](https://www.bilibili.com/video/BV1oK411P7QA?p=)
+## Bilibili
+[赶集请客上岭山---搬运工](https://space.bilibili.com/16081941)
 
 ## Webs
 ### News

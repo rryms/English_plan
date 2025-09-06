@@ -30,20 +30,29 @@
   * 对具体的单词直接用欧陆单词，单词集合夹---考研必记。
 
 就是简单对单词有一个好的记忆点，不断的重复。学英语对单词，即不能在意，又不能不在意
+
+记单词的意思，**学好对比着记**，**在使用中记**
 ### Resources
 
-1. 词根词缀   
+1. 词典网站
 
-    [网站](https://www.etymonline.com/cn)
-2. 词典
+    [词根词缀网站](https://www.etymonline.com/cn)
 
-   [网站](https://www.vocabulary.com/dictionary/)
+    [单词解释网站](https://www.vocabulary.com/dictionary/)
+2. 词典应用
 
-   [saladict](https://saladict.crimx.com/notice)
-3. [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
-   * Usage: ``command + ^A``: 加入生词本
+    [saladict](https://saladict.crimx.com/notice)
 
-4. 直接问AI，对词组的、近义词的咬文嚼字
+    [欧陆字典](https://www.bilibili.com/video/BV1eY411w7bn)
+      * Usage: ``command + ^A``: 加入生词本
+
+3. 直接问AI，对词组的、近义词的咬文嚼字
+
+4. 词典助记
+   1. USE THE RIGHT WORD: 多个单词的对比
+   2. 牛津高级学习词典：对单词解释详实，有例句
+   3. Macmillan English Dictionary: 列举了近义词
+   4. [查询当代用法的语料库](https://www.english-corpora.org/coca/)
 
 ### Practice
 欧陆词典
