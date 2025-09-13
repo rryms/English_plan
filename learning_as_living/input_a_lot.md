@@ -4,6 +4,7 @@
 
 [Emmie](https://www.youtube.com/@emmiereads)
 
+[Leah的小日记](https://www.bilibili.com/video/BV1vGhZzEE8P/)
 # 视频
 
 
@@ -36,6 +37,13 @@
 ## Bilibili
 [赶集请客上岭山---搬运工](https://space.bilibili.com/16081941)
 
+# Books
+联邦党人文集
+
+神探夏洛克
+
+魔戒
+
 ## Webs
 ### News
 * [八点一刻-外刊阅读](https://www.badianyike.com/)
@@ -49,16 +57,11 @@
   * 《科学美国人》（Scientific American）
   * 《华盛顿邮报》（The Washington Post）
   * 《新闻周刊》（Newsweek）
+  * [纽约客-NewYorkers](https://www.bilibili.com/video/BV1Ty4y1b75K/)
+
 ### Podcast
 [english-pod](https://antennapod.org/documentation/getting-started)
 
 
 ### Kownledges
 * [World History Encyclopedia](https://www.worldhistory.org/Crusades/)
-
-### Books
-联邦党人文集
-
-神探夏洛克
-
-魔戒

@@ -12,6 +12,7 @@ The study of English
 
 ## Learning as Living
 * [habit](./learning_as_living/habit.md)
+    * [咬文嚼字](./learning_as_living/word-eating.md)
 
 * [Input](./learning_as_living/input_a_lot.md)
 ## Resource--需要整理
