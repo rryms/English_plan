@@ -39,7 +39,7 @@ creat
 * happen vs. effect vs. visit upon
 * case vs. affair
 
-* explain vs. interpretation
+* explain vs. interpretation vs. expound
 
 * comprise vs. include vs. contain vs. involve
 
@@ -49,3 +49,5 @@ creat
 * bound vs. should vs. must
 * rejoice vs. happy
 * disguise vs. conceal
+* rust vs. corrode
+* compassion vs. sympathy
