@@ -2,6 +2,10 @@
 The study of English
 
 ## As the thinking of learning English
+### 学习要有目标
+[KaoYan](./Plans/exam-oriented/aiming-for-exam.md)
+
+
 ### [学习的计划](./Structed%20learning/summary.md)---对知识结构的认识和计划---体系
 [plus resources](./Structed%20learning/resources.md)
 ### [计划的学习](./Plans/plans-for-learning.md) --- 一个好的联系知识与实践的计划--习惯---实践计划

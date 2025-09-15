@@ -42,3 +42,10 @@ creat
 * explain vs. interpretation
 
 * comprise vs. include vs. contain vs. involve
+
+* [company vs. firm vs. Corporation](https://www.reddit.com/r/EnglishLearning/comments/147mgeu/what_exactly_is_the_difference_between_firm/)
+
+* beefy vs. fat
+* bound vs. should vs. must
+* rejoice vs. happy
+* disguise vs. conceal
