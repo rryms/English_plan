@@ -1,5 +1,6 @@
 
 # 咬文嚼字---bite the word
+## 日常辨析！！！---必记
 * Government vs. Bureaucracy
 
 * Implement vs. Create
@@ -84,3 +85,12 @@ creat
 * egoism vs. conceit vs. selfishness vs. vanity
 * edge vs. border vs. grim vs. brink vs. margin vs. verge
 * lawful vs. constitutional vs. legal vs. legitimate 
+* aristocracy vs. nobility
+* circumscribe vs. bound vs. contain vs. encircle vs. enclose vs. encompass vs. envelop vs. surround
+* consolidate vs. unify
+* index vs. scale vs. base
+* kidnap vs. conduct vs. seize
+* capture vs. apprehend vs. arrest vs. bag vs. catch vs. nab vs. pinch vs. trap
+* raise vs. elevate vs. hoist vs. lift vs. promote vs. uplift
+
+## 典型词汇、词组

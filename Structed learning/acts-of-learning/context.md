@@ -4,9 +4,9 @@
 * [5 paragraph](http://essayisay.homestead.com/fiveparagraphs.html)
 
 content
-P1 : Intro ,Thesis Statement
+P1 : Intro ,[Thesis Statement](https://writingcenter.unc.edu/tips-and-tools/thesis-statements/)
 P2--P4: Topic Sentence ,Paragraph
-P5: Conclusion
+P5: [Conclusion](https://writingcenter.unc.edu/tips-and-tools/conclusions/)
 
 
 

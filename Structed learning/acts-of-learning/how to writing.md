@@ -13,9 +13,13 @@
   * convey meaning precisely and appropriately **by** skillful using sentence variety and vocabulary. Correct sentence structure and language usage and vocabulary. Correct sentence structure and language usage.
 
 ## Steps when writing
-![Steps when Writing-1](../pictures/Page7.jpg)
-![Steps when Writing-2](../pictures/Page8.jpg)
-![Steps when Writing-3](../pictures/Page9.jpg)
+![Steps when Writing-1](../../pictures/Page7.jpg)
+![Steps when Writing-2](../../pictures/Page8.jpg)
+![Steps when Writing-3](../../pictures/Page9.jpg)
+
+
+1. Brain Storming
+
 
 ## Habit to write
 
