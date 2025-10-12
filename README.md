@@ -18,7 +18,7 @@ The study of English
 * [habit](./learning_as_living/habit.md)
     * [咬文嚼字](./learning_as_living/word-eating.md)
 
-* [Input](./learning_as_living/input_a_lot.md)
+* [作为生活的Input](./learning_as_living/input_a_lot.md)
 ## Resource--需要整理
 [葛旭---网站推荐](https://www.bilibili.com/video/BV17Q4y1C72Q)
 

@@ -92,5 +92,14 @@ creat
 * kidnap vs. conduct vs. seize
 * capture vs. apprehend vs. arrest vs. bag vs. catch vs. nab vs. pinch vs. trap
 * raise vs. elevate vs. hoist vs. lift vs. promote vs. uplift
+* danger vs. hazard vs. jeopardy vs. menace vs. peril vs. risk vs. threat
+* weaken vs. deplete vs. enervate vs. enfeeble vs. exhaust vs. sap vs. spend
+* immediate vs. direct
+* brusque vs. abrupt vs. bluff vs. blunt vs. curt vs. gruff vs. short vs. surly
+* absurd vs. farcial vs. foolish vs. irrational vs. ludicrous vs. preposterous vs. ridiculous vs. senseless vs. silly vs. unreasonable
+* accomplish vs. achieve
+* give vs. accord vs. award vs. confer vs. grant
+* accumulate vs. amass vs. collect vs. gather vs. hoard
+
 
 ## 典型词汇、词组
