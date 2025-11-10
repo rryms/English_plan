@@ -4,9 +4,11 @@
 
 
 # 音频
+## 具体的看看
 
 [Roman History](https://www.youtube.com/watch?v=DyoVVSggPjY)
 
+[yale-政治哲学](https://www.bilibili.com/video/BV1oK411P7QA?p=)
 ## YouTube---休息的时候看，平时就是看杂志
 ### 博客
 [Manifold](https://www.youtube.com/@ManifoldPodcast)
@@ -17,7 +19,6 @@
 
 [Camile Vilela](https://www.youtube.com/@CamileVilela)
    
-[yale-政治哲学](https://www.bilibili.com/video/BV1oK411P7QA?p=)
 
 [Lex-Fridman](https://www.youtube.com/@lexfridman)
 
@@ -39,8 +40,6 @@
   [Emmie](https://www.youtube.com/@emmiereads)
 
 
-
-
 ## Bilibili
 [赶集请客上岭山---搬运工](https://space.bilibili.com/16081941)
 
@@ -49,6 +48,7 @@
 [Leah的小日记](https://www.bilibili.com/video/BV1vGhZzEE8P/)
 
 ## Podcast
+
 [english-pod](https://antennapod.org/documentation/getting-started)
 
 # Books---读书扩大阅读量

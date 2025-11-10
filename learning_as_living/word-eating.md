@@ -22,7 +22,7 @@ creat
 * arrogant vs. brutal ---stfw---一个是心理；一个是行为
 * pursuit vs. habit
 * outlook vs. aspect
-* dismantle vs. destroy vs. remove vs. erase vs. devour---强调过程
+* dismantle vs. destroy vs. remove vs. erase vs. devour---强调过程 vs. devastate
 * house vs. dwelling
 * estate vs. home
 * sad vs. poignant
@@ -52,11 +52,12 @@ creat
 * disguise vs. conceal
 * rust vs. corrode
 * compassion vs. sympathy
-* cite vs. mention vs. quote
+* cite vs. mention vs. quote vs. refer
 * dump vs. get rid of
 * pillow vs. cushion
 * spur vs. inprove vs. encourage
-* choose vs. select vs. pick vs. opt
+* choose vs. select vs. pick vs. opt  
+* apt vs. adjust
 * complex vs. intricate
 * schedule vs. plan vs. agenda
 * exert vs. function vs. influent
@@ -100,6 +101,28 @@ creat
 * accomplish vs. achieve
 * give vs. accord vs. award vs. confer vs. grant
 * accumulate vs. amass vs. collect vs. gather vs. hoard
-
-
+* undergo vs. suffer
+* migrate vs. emigrate vs. immigrate vs. move vs. travel
+* interact vs. communicate 
+* transaction vs. trade
+* alter vs. change vs. convert vs. modify vs. transfigure vs. transform vs. transmogrify vs. transmute
+* ancient vs. antique vs. hoary vs. immemorial vs. old
+* critique vs. criticism 
+* crucial vs. critical vs. essential
+* vulgar vs. coarse vs. crude vs. gross vs. obscence vs. raw
+* foster vs. encourage vs. promote vs. cultivate
+* contradictory vs. conflicting vs. contrary vs. opposed vs. opposite
+* inevitable vs. inescapable vs. necessary vs. unavoidable
+* genius vs. aptitude vs. bent vs. faculty vs. gift vs. instinct vs. knack vs. talent
+* ethic vs. morality
+* confront vs. face up to
+* **yield** vs. grown vs. submit
+* disagree vs. bicker vs. cavil vs. differ vs. dissent vs. object vs. quibble
+* **pledge** vs. commitment vs. swear vs. bail vs. bond vs. collateral vs. guarantee vs. security vs. surety 
+* indispensable vs. essential vs. vital vs. necessary
+* admit vs. confess vs. acknowledge vs. concede
+* reluctant vs. unwilling vs. averse vs. disinclined vs. hesitant vs. loath
+* commodity vs. product vs. produce vs. merchandise
+* chronic vs. chronicle vs. synchronize vs. anachronism vs. synchronous 
+* curb vs. check vs. control
 ## 典型词汇、词组
