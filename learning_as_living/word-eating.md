@@ -22,7 +22,7 @@ creat
 * arrogant vs. brutal ---stfw---一个是心理；一个是行为
 * pursuit vs. habit
 * outlook vs. aspect
-* dismantle vs. destroy vs. remove vs. erase vs. devour---强调过程 vs. devastate
+* dismantle vs. destroy vs. remove vs. erase vs. devour---强调过程 vs. devastate vs. dismiss vs. eject vs. eliminate vs. evict vs. expel vs. oust
 * house vs. dwelling
 * estate vs. home
 * sad vs. poignant
@@ -46,6 +46,9 @@ creat
 
 * [company vs. firm vs. Corporation](https://www.reddit.com/r/EnglishLearning/comments/147mgeu/what_exactly_is_the_difference_between_firm/)
 
+* reduction vs. decrease
+* **dynamic** vs. vital vs. static 
+* surface vs. emerge 
 * beefy vs. fat
 * bound vs. should vs. must
 * rejoice vs. happy
@@ -61,11 +64,15 @@ creat
 * complex vs. intricate
 * schedule vs. plan vs. agenda
 * exert vs. function vs. influent
+* exertion vs. effort vs. pains vs. struggle vs. trouble
 * correct vs. amend / revise / emend /rewrite
 * disposition vs. nature vs. character vs. nature vs. personality vs. character
 * circumstance vs. situation
 * address vs. deal with 
+* deal vs. **transaction** vs. process
+* ambiguous vs. dim vs. obscure vs. vague vs. unclear vs. doubtful vs. dubious vs. equivocal vs. problematic vs. questionable vs. uncertain
 * clear vs. **plean** vs. explicit 
+* alternative vs. option
 * statement vs. declare
 * abide vs. bear vs. stand
 * abolish vs. vode vs. aunul vs. cancel vs. invalidate vs. negate vs. repeal vs. revoke --- Using the Right Word
@@ -91,7 +98,20 @@ creat
 * consolidate vs. unify
 * index vs. scale vs. base
 * kidnap vs. conduct vs. seize
+* bigotry vs. bias vs. intolerance vs. prejudice
 * capture vs. apprehend vs. arrest vs. bag vs. catch vs. nab vs. pinch vs. trap
+* meeting vs. assemblage vs. assembly vs. conclave vs. conference vs. congregation vs. congress vs. convention vs. convocation vs. council vs. gathering vs. parliament
+
+会议​ → Meeting / Conference
+大会​ → Assembly / Convention
+座谈会​ → Symposium / Forum
+研讨会​ → Seminar / Workshop
+理事会​ → Council
+委员会​ → Committee
+
+* benefit vs. advantage vs. favour vs. gain vs. profit
+* confine vs. restrict
+* fiscal vs. financial 
 * raise vs. elevate vs. hoist vs. lift vs. promote vs. uplift
 * danger vs. hazard vs. jeopardy vs. menace vs. peril vs. risk vs. threat
 * weaken vs. deplete vs. enervate vs. enfeeble vs. exhaust vs. sap vs. spend
@@ -125,4 +145,22 @@ creat
 * commodity vs. product vs. produce vs. merchandise
 * chronic vs. chronicle vs. synchronize vs. anachronism vs. synchronous 
 * curb vs. check vs. control
+* obese vs. fat vs. corpulent vs. plump vs. stout
+* imitate vs. ape vs. copy vs. impersonate vs. mimic
+* **optimistic** vs. positive | pessimistic vs. confident | hopeful   
+* consult vs. confer vs. negotiate vs. parley
+* queer vs. crazy vs. funny vs. odd vs. peculiar
+* possess vs. have vs. hold vs. keep vs. own
+* symptom vs. clue vs. indication vs. prodrome vs. syndrome
+* rigid vs. inflexible
+* aware vs. cognizant vs. conscious vs. mindful vs. on to
+* sceptical vs. suspicious
+* **reserve** vs. book  
+* resolve vs. settle vs. determine vs. decide
+* spouse vs. mate
+* get vs. acquire vs. gain vs. obtain vs. procure
+* aircraft vs. airline
+* category vs. kind vs. sort vs. type
+* theatrical vs. camp vs. campy vs. dramatic vs. flamboyant histrionic
+* try vs. attempt vs. endeavour vs. strive
 ## 典型词汇、词组
