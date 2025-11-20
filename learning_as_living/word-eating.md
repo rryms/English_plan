@@ -256,9 +256,36 @@ creat
 * sham vs. bogus vs. fake vs. mock vs. phony
 * narrative vs. anecdote vs. legend vs. myth vs. saga vs. story vs. tale vs. yarn
 * hesitate vs. falter vs. flounder vs. pause vs. vacillate vs. waver
-* 
+* plain vs. bush vs. desert vs. pampas vs. prairie vs. range vs. 
+* **poisonous** vs. toxic vs. venomous
+* conceited vs. boastful vs. egotistical vs. proud vs. vain 
+* cautious v.s circumspect vs. discreet vs. guarded vs. prudent vs. wary
+* rob vs. milk vs. extort vs. embezzle
+* rough vs. bumpy vs. corrugated vs. crenellated vs. crooked vs. jagged vs. rugged vs. serrated vs. uneven
+* scanty vs. inadequate vs. insufficient vs. meagre vs. scarce
+* demur vs. balk vs. boggle vs. recoil vs. scruple vs. shirk vs. shrink vs. shy
+* thin vs. lean vs. scrawny vs. skinny vs. slender vs. slim vs. spare vs. svelte vs. willowy vs. wiry
+* overhear vs. bug vs. eavesdrop vs. monitor vs. snoop vs. tap vs. wiretap
+* bend vs. bow vs. lean vs. stoop vs. turn vs. twist
+* postpone vs. adjourn vs. defer vs. delay vs. suspend
+* genuine vs. actual vs. authentic vs. dinkum vs. real vs. true
+* discriminate vs. differentiate vs. discern vs. distinguish
+* declare vs. advertise vs. announce vs. broadcast vs. enunciate vs. proclaim vs. publish
+* speech vs. address vs. discourse vs. harangue vs. homily vs. lecture vs. oration vs. sermon vs. spiel
+* find vs. ascertain vs. detect vs. determine vs. discover vs. learn vs. locate vs. unearth
+* rotate vs. gyrate vs. revolve vs. roll vs. spin vs. turn vs. twirl vs. whirl
+* moral vs. decent vs. ethical vs. good vs. honourable vs. righteous vs. selfrighteous vs. upright vs. virtuous
+* exemplify vs. illustrate
+* anger vs. fury vs. indignation vs. ire vs. rage vs. wrath
 
+* narrative vs. anecdote vs. legend vs. myth vs. saga vs. story vs. tale vs. yarn
+
+* kernel vs. crux vs. essence vs. gist vs. nub vs. nucleus vs. substance
+
+* confess vs. admit  vs. concede vs. acknowledge
 ## 典型词汇、词组
 * 转折词
   
   nonetheless vs. nevertheless
+
+  thereby
