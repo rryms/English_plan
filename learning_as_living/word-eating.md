@@ -22,13 +22,14 @@ creat
 * arrogant vs. brutal ---stfw---一个是心理；一个是行为
 * pursuit vs. habit
 * **outlook** vs. aspect vs. expectation vs. anticipation vs. expectancy vs. hope vs. prospect 
-* dismantle vs. destroy vs. remove vs. erase vs. devour---强调过程 vs. devastate vs. dismiss vs. eject vs. eliminate vs. evict vs. expel vs. oust
+* dismantle vs. destroy vs. **remove** vs. erase vs. devour---强调过程 vs. devastate vs. dismiss vs. eject vs. eliminate vs. evict vs. expel vs. oust
+* erase vs. cancel vs. delete vs. efface vs. eradicate vs. expunge vs. obliterate
 * house vs. dwelling
 * estate vs. home
 * sad vs. poignant
 * research vs. fieldwork
 * trip vs. foray vs. voyage
-* intact vs. unchanged
+* **intact** vs. unchanged vs. undamaged vs. entire vs. complete vs. full vs. total vs. whole
 * weep vs. cry
 * attic vs. loft
 * travel vs. passing through
@@ -230,6 +231,7 @@ creat
 * clumsy vs. awkward vs. bungling vs. gawky vs. inept vs. lumbering vs. ungainly
 * offer vs. bid vs. present vs. proffer vs. propose vs. tender vs. volunteer
 * brave vs. bold vs. courageous vs. dauntless vs. fearless vs. gallant vs. hero vs. intrepid vs. plucky vs. undaunted vs. valiant vs. valorous
+
 * bother vs. disturb vs. harass vs. pester vs. plague vs. trouble vs. worry
 * cheat vs. con vs. defraud vs. fleece vs. swindle vs. victimize
 * teach vs. coach vs. educate vs. indoctrinate vs. instruct vs. school vs. train vs. tutor 
@@ -283,9 +285,79 @@ creat
 * kernel vs. crux vs. essence vs. gist vs. nub vs. nucleus vs. substance
 
 * confess vs. admit  vs. concede vs. acknowledge
-## 典型词汇、词组
-* 转折词
-  
-  nonetheless vs. nevertheless
 
-  thereby
+* cursory vs. careless vs. hasty vs. scant vs. slapdash vs. superficial
+* workable vs. feasible vs. possible vs. practicable vs. practical
+* extraneous vs. extrinsic vs. immaterial vs. inessential vs. irrelevant vs. superfluous
+* fragile vs. brittle vs. frail vs. frangible vs. friable
+* boundary vs. border vs. bounds vs. confines vs. frontier vs. limit
+* contradict vs. contravene vs. controvert vs. deny vs. disprove vs. gainsay vs. oppose vs. refute
+* stick vs. adhere vs. cleave vs. cling vs. cohere
+* inheritance vs. bequest vs. birthright vs. heritage vs. legacy vs. patrimony
+* artifical vs. ersatz vs. false vs. imitation vs. synthetic
+* compulsory vs. binding vs. imperative vs. mandatory vs. obligatory
+* jurisdiction vs. authority vs. dominion vs. power vs. sovereignty vs. sway
+* obligation vs. duty vs. function vs. office vs. responsibility
+* make vs. assemble vs. manufacture vs. produce
+* immerse vs. dip vs. douse vs. duck vs. plunge vs. submerge
+* treat vs. cure vs. heal vs. mend vs. remedy
+* massive vs. enormous vs. hefty vs. huge vs. immense vs. ponderous vs. vast
+* migrate vs. emigrate vs. immigrate vs. move vs. travel
+* forget vs. neglect vs. omit vs. overlook
+* marginal vs. inconsequential vs. minor vs. negligible vs. nugatory vs. peripheral vs. piddling
+* disinterested vs. dispassionate vs. fair vs. impartial vs. neutral vs. objective vs. unbiased vs. unprejudiced
+* novelty vs.game vs. novelty vs. toy
+* assinstant vs. adjutant vs. aide vs. helper vs. subordinate
+* tear vs. rend vs. rip vs. rive
+* unparalleled vs extraordinary vs. singular vs. special 
+* ornament vs. adorn vs. beautify vs. bedeck vs. deck vs. decorate vs. embellish vs. garnish vs. trim
+* transparent vs. clear vs. crystalline vs. limpid vs. lucid vs. pellucid
+* competent vs. able vs. capable vs. efficient vs. fit vs. good vs. qualified
+* permanent vs. abiding vs. durable vs. enduring vs. indelible vs. lasting vs. perennial vs. perpetual vs. stable
+* hole vs. cavity vs. excavation vs. hollow vs. pit
+* believable vs. convincing vs. credible vs. plausible
+* copy vs. duplicate vs. model vs. replica vs. reproduction
+* explode vs. burst vs. bust vs. erupt
+* stand vs. attitude vs. policy vs. position vs. posture 
+* temperament vs. character vs. disposition vs. nature vs. personality
+* influence vs. affect vs. impress vs. sway
+* vanquish vs. conquer vs. overcome vs. overpower vs. overthrow vs. overwhelm vs. rout vs. surmount
+* sacred vs. blessed vs. consecrated vs. divine vs. hallowed vs. holy
+* absorb vs. assimilate vs. digest vs. imbibe vs. incorporate vs. ingest
+* offer vs. bid vs. resent vs. proffer vs. propose vs. tender vs. volunteer
+* appoint vs. assign vs. designate vs. name
+* unparalleled vs. extraordinary vs. singular vs. special
+* urbane vs. cultivated vs. genteel vs. sophisticated vs. suave 
+* spontaneous vs. extemporaneous vs. impromptu vs. improvised vs. impulsive vs. unplanned vs. unpremeditated vs. unrehearsed
+* monotonous vs. boring vs. dull vs. tedious vs. tiresome
+* diversify vs. variegate vs. vary
+* intend vs. aim vs. comtemplate vs. mean vs. plan vs. propose
+
+* provisional vs. conditional vs. contingent vs. dependent vs. tentative
+
+* bias vs. intolerance vs. prejudice vs. partiality
+## 典型词汇、词组
+* [连接词---Conjunctions](https://tw.amazingtalker.com/blog/zh-tw/zh-eng/1574/)
+
+對等連接詞：and, but, or, nor, for, so, yet
+
+相關連結詞：either… or, neither… nor, both … and
+
+從屬連結詞：after, because, if, as though, in order that, once, since
+
+  对比：
+
+  while vs. nonetheless vs. nevertheless vs. whereas
+
+  转折：
+
+  Instead 
+
+  递进：
+
+  Likewise vs. Meanwhile vs. thereby
+
+  因果：
+
+  Therefore 
+

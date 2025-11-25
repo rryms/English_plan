@@ -1,10 +1,6 @@
 
+
 # April
-## 4.11
-1. Although lords wanted to treat towns and townspeople as they would their vassals and serfs, cities had totally different needs and a different perspective.
-
-1. Although roommates still wanted to living in a fancy about calculasing the strong and the weak, the society give them a lecture to be reality.
-
 ## 4.14
 1. Begun in the twelfth century and brought to prefection in the thirteenth, the Gothic cathedral remains one of the great artistic triumphs of the High Middle Ages.
 
@@ -67,6 +63,8 @@ The drones can
 5. It puts you more **in charge of** the reading process.
 6. It is a catch basin into which pour all of the people disenfranchised or marginalized or scared off by the processes beyond their control, those which lie close to the heart of American life.
 
+## 11.25
+The Government has pledged to change the law to introduce a minimum service requirement  
 ## rewrite
 1. Had i entered the unveristy successfully, great peaceness could not generate in my heart.
 2. 
