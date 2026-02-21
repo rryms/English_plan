@@ -1,14 +1,43 @@
+# 工作流
+1. 微信读书，读点喜欢的书
+   * 单词留下用微信的笔记集中回顾。
+
+2. 利用English学一些真正提升自身的课程，不断应用。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 直接学课程
+
+[Roman History](https://www.youtube.com/watch?v=DyoVVSggPjY)
+
+[yale-政治哲学](https://www.bilibili.com/video/BV1oK411P7QA?p=)
+
+[1945年后美国小说/海明威/菲茨杰拉德/福克纳/但丁/弥尔顿/现代诗歌/塞万提斯的堂吉诃德等介绍](https://www.bilibili.com/video/BV1xh411z78U)
+
+[Open Yale Course：Introduction to Theory of](https://www.bilibili.com/video/BV15s411x7LU)
 # 学习语言也是在学习文化
+
+
 ## 美国
 * Peter Thiel
+
 
 
 # 音频
 ## 具体的看看
 
-[Roman History](https://www.youtube.com/watch?v=DyoVVSggPjY)
-
-[yale-政治哲学](https://www.bilibili.com/video/BV1oK411P7QA?p=)
 ## YouTube---休息的时候看，平时就是看杂志
 ### 博客
 [Manifold](https://www.youtube.com/@ManifoldPodcast)
