@@ -5,19 +5,6 @@
 2. 利用English学一些真正提升自身的课程，不断应用。
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 直接学课程
 
 [Roman History](https://www.youtube.com/watch?v=DyoVVSggPjY)
@@ -40,16 +27,22 @@
 
 ## YouTube---休息的时候看，平时就是看杂志
 ### 博客
-[Manifold](https://www.youtube.com/@ManifoldPodcast)
+* 新闻类 
 
-[The-Free-Press](https://www.youtube.com/@thefreepress)
+  [The-Free-Press](https://www.youtube.com/@thefreepress)
 
-[Political-Excess](https://www.youtube.com/@PoliticalExcess)
+  [Political-Excess](https://www.youtube.com/@PoliticalExcess)
+
+* 精英类杂谈
+  [Lex-Fridman](https://www.youtube.com/@lexfridman)
+
+  [Manifold](https://www.youtube.com/@ManifoldPodcast)
+
+   
+* 特色博客
+[rotten mango](https://www.youtube.com/@rottenmangopod)
 
 [Camile Vilela](https://www.youtube.com/@CamileVilela)
-   
-
-[Lex-Fridman](https://www.youtube.com/@lexfridman)
 
 [The-rest-is-history](https://www.youtube.com/@restishistorypod)
 
@@ -76,7 +69,7 @@
 
 [Leah的小日记](https://www.bilibili.com/video/BV1vGhZzEE8P/)
 
-## Podcast
+## Podcast-tools
 
 [english-pod](https://antennapod.org/documentation/getting-started)
 
